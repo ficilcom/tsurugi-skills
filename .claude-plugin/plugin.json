@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "tsurugi",
+  "version": "0.1.0",
+  "description": "Tsurugi プロジェクトの運用向けスキル",
+  "author": {
+    "name": "ficilcom",
+    "url": "https://github.com/ficilcom"
+  },
+  "homepage": "https://github.com/ficilcom/tsurugi-skills",
+  "repository": "https://github.com/ficilcom/tsurugi-skills",
+  "license": "Apache-2.0"
+}

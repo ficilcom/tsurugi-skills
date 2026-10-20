@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tsurugi-skills",
+  "owner": {
+    "name": "ficilcom",
+    "url": "https://github.com/ficilcom"
+  },
+  "metadata": {
+    "description": "Tsurugi プロジェクトの運用向け公開スキル集"
+  },
+  "plugins": [
+    {
+      "name": "tsurugi",
+      "source": "./",
+      "description": "Tsurugi プロジェクトの運用向けスキル"
+    }
+  ]
+}
