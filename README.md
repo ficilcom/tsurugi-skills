@@ -1,6 +1,6 @@
 # tsurugi-skills
 
-[剣-TSURUGI-](https://tsurugi.marketing) を AI から使うためのスキル集です。AI に Tsurugi の MCP サーバーをつなぎ、これらのスキルを入れると、実績ポートフォリオの作成、受注者プロフィールの整備、案件探しと応募、案件メッセージへの対応を手伝ってもらえます。
+[剣-TSURUGI-](https://tsurugi.marketing) を AI から使うためのスキル集です。AI に Tsurugi の MCP サーバーをつなぎ、これらのスキルを入れると、実績ポートフォリオの作成、受注者プロフィールの整備、案件探しと応募、案件の掲載と応募者の選定、案件メッセージへの対応を手伝ってもらえます。
 
 Claude Code・Codex・Claude アプリ（claude.ai／Claude Desktop）で使えます。
 
@@ -13,6 +13,8 @@ Claude Code・Codex・Claude アプリ（claude.ai／Claude Desktop）で使え�
 | `tsurugi-provider-profile` | 受注者プロフィールを、応募できる条件を満たす内容に整える |
 | `tsurugi-order-application` | 案件を探して応募し、応募後の最初のメッセージ（提案）を書く |
 | `tsurugi-messages` | 案件メッセージの未読を確かめ、返信案を作って送る |
+| `tsurugi-order-posting` | 発注者として案件の文章を作り、下書き保存・公開・募集終了まで進める |
+| `tsurugi-applicant-selection` | 自分の案件に届いた応募を比べ、確認の質問を送り、承諾まで進める |
 
 ## 使い始める
 
@@ -84,6 +86,8 @@ MCP をつなぐ: 「Customize」→「Connectors」→「Add custom connector�
 - 「Tsurugi の受注者プロフィールを、応募できる状態にして」
 - 「Tsurugi で BtoB の広告運用の案件を探して」
 - 「Tsurugi の未読メッセージを確認して」
+- 「SNS 広告の運用をお願いできるパートナーを、Tsurugi で募集したい」
+- 「Tsurugi の案件に来た応募者を比べて」
 
 ## 安心して使うために
 

@@ -53,3 +53,5 @@ description: 剣-TSURUGI-（tsurugi.marketing）の MCP サーバーへの接続
 - 受注者プロフィールを整える: `tsurugi-provider-profile`
 - 案件を探して応募する: `tsurugi-order-application`
 - メッセージを確認・返信する: `tsurugi-messages`
+- 発注者として案件を出す: `tsurugi-order-posting`
+- 届いた応募を比べて承諾する: `tsurugi-applicant-selection`

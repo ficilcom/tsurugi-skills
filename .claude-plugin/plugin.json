@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "tsurugi",
-  "version": "0.2.0",
-  "description": "剣-TSURUGI- を AI から使うためのスキル（実績・受注者プロフィール・案件への応募・案件メッセージ）",
+  "version": "0.3.0",
+  "description": "剣-TSURUGI- を AI から使うためのスキル（実績・受注者プロフィール・案件への応募・案件の掲載と応募者の選定・案件メッセージ）",
   "author": {
     "name": "ficilcom",
     "url": "https://github.com/ficilcom"
