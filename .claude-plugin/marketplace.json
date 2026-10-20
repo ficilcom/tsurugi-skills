@@ -6,13 +6,13 @@
     "url": "https://github.com/ficilcom"
   },
   "metadata": {
-    "description": "Tsurugi プロジェクトの運用向け公開スキル集"
+    "description": "剣-TSURUGI- を AI から使うためのスキル集"
   },
   "plugins": [
     {
       "name": "tsurugi",
       "source": "./",
-      "description": "Tsurugi プロジェクトの運用向けスキル"
+      "description": "剣-TSURUGI- を AI から使うためのスキル（実績・受注者プロフィール・案件への応募・案件メッセージ）"
     }
   ]
 }
